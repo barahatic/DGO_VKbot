@@ -136,4 +136,4 @@ void onNewMessage(VkUpdate& update) {
 
 ## Лицензия
 
-Библиотека предоставляется "как есть" для использования в ваших проектах.
+ Apache License Version 2.0
